@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+
+<!-- I have used prisma (ORM tool),prisma client (for sql queries), vercel (for database), shadcn (for components), zod (for validation), lucia (auth library),oslo -->
+<!-- npm i --legacy-peer-deps lucia oslo @lucia-auth/adapter-prisma -->
+
+
 ## Getting Started
 
 First, run the development server:
